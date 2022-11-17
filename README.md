@@ -1,5 +1,5 @@
 ### Hi there, I'm Tina 👋
-🧕🏻 2nd Year Electrical Engineering student
+🧕🏻 3rd Year Electrical Engineering student
 
 ## Passionate about technology 👩‍💻
 - :test_tube: Knowledge of **Java, Python, C, C++, Angular, SQL** and more!
