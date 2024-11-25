@@ -9,4 +9,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-91A6FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tina-ismail)
 [![Devpost](https://img.shields.io/badge/-DEVPOST-90FCF9?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/tinaismail)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/tintinn.png" alt="THM Badge" />
+[<img src="https://tryhackme-badges.s3.amazonaws.com/tintinn.png" alt="THM Badge" />](https://tryhackme.com/r/p/tintinn)
